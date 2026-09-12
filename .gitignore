@@ -1,0 +1,11 @@
+# Database
+event_volunteer.db
+
+# Build & Compiled Output
+bin/
+sources.txt
+webapp/WEB-INF/classes/com/
+webapp/WEB-INF/classes/db.properties
+
+# Temp files
+*.log
